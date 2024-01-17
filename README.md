@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jasmine Bajracharya</h1>
 <h3 align="center">A learner</h3>
 
-- 🔭 I’m currently working on **developing my full stack development skills**
+- 🔭 I’m currently working on **Developing my Full stack Development skills**
 
-- 🌱 I’m currently learning **React,Machine learning, Data analytics**
+- 🌱 I’m currently learning **React, Machine learning, Data analytics, Django**
 
 - 📫 How to reach me **jasminebajracharya2002@gmail.com**
 
