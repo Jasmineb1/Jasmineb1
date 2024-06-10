@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasmine Bajracharya</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 🔭 I’m currently working on **Developing my Full stack Development skills**
 
