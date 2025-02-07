@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Developing my Full stack Development skills**
 
-- 🌱 I’m currently learning **React, Machine learning, Data analytics**
+- 🌱 I’m currently learning **AngularJS, Machine learning, Data analytics**
 
 - 📫 How to reach me **jasminebajracharya2002@gmail.com**
 
